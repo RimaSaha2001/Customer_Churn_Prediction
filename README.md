@@ -1,22 +1,62 @@
 # Customer Churn Prediction
 
-This project builds a machine learning model to predict customer churn for a telecom company.
+This project aims to predict whether a customer is likely to leave a telecom company based on various behavioral and demographic factors. The goal is to help businesses identify customers who are at risk of churning and take proactive actions.
 
-## Steps Followed:
-1. Data Loading & Understanding
-2. EDA (Exploratory Data Analysis)
-3. Data Preprocessing
-4. Feature Selection
-5. Model Building
-6. Model Evaluation
-7. Insights & Visualization
+---
 
-## Tools Used:
-- Python
-- Pandas
+## 📌 Project Steps:
+
+1. **Data Loading & Initial Understanding**  
+   Load the dataset and understand its structure and basic statistics.
+
+2. **Exploratory Data Analysis (EDA)**  
+   Analyze distributions, correlations, and key churn-related patterns.
+
+3. **Data Preprocessing**  
+   Handle missing values, encode categorical features, and normalize data.
+
+4. **Feature Selection**  
+   Select the most important features that influence churn.
+
+5. **Model Building**  
+   Train machine learning models such as Logistic Regression, Random Forest, etc.
+
+6. **Model Evaluation**  
+   Evaluate performance using accuracy, confusion matrix, precision, recall, F1-score.
+
+7. **Insights & Visualization**  
+   Use visual tools like Matplotlib/Seaborn/Power BI/Tableau to interpret churn behavior.
+
+---
+
+## 🛠️ Tools & Technologies Used:
+
+- Python (Jupyter Notebook)
+- Pandas, NumPy
 - Scikit-learn
-- Seaborn / Matplotlib
-- Power BI / Tableau
+- Seaborn, Matplotlib
+- Tableau / Power BI
 
-## Author:
-Rima Saha
+---
+
+## 📊 Dataset Info:
+
+Telecom customer dataset with features like:
+- Gender, SeniorCitizen, Tenure, MonthlyCharges
+- InternetService, Contract, PaymentMethod
+- Churn (Target variable)
+
+---
+
+## 👩‍💻 Author
+
+**Rima Saha**  
+Email: rima.saha2001@gmail.com  
+LinkedIn: [Your LinkedIn URL here] *(optional)*  
+Location: Kolkata, India
+
+---
+
+## 🚀 Outcome
+
+This model helps telecom companies reduce customer churn and improve retention strategies by targeting at-risk users using data-driven insights.
