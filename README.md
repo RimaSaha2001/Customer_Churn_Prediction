@@ -35,7 +35,7 @@ This project aims to predict whether a customer is likely to leave a telecom com
 - Pandas, NumPy
 - Scikit-learn
 - Seaborn, Matplotlib
-- Tableau / Power BI
+- Tableau 
 
 ---
 
@@ -52,7 +52,7 @@ Telecom customer dataset with features like:
 
 **Rima Saha**  
 Email: rima.saha2001@gmail.com  
-LinkedIn: [Your LinkedIn URL here] *(optional)*  
+LinkedIn: www.linkedin.com/in/rimasaha-datascience 
 Location: Kolkata, India
 
 ---
